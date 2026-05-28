@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="cover.jpeg" width="400" alt="Book Cover">
+  <img src="cover.JPEG" width="500" alt="Book Cover">
 </p>
 
 # Ayande-Penhan
