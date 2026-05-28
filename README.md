@@ -1,5 +1,5 @@
 
-![Book Cover](cover.JPEG)
+<img src="cover.jpeg" width="400" alt="Book Cover">
 
 # Ayande-Penhan
 
